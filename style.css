@@ -10,3 +10,8 @@
 .left-column-item{
 	border: solid black;
 }
+#minus,#total,#plus{
+	display:inline-block;
+	font-size:70px;
+	margin: 15px;
+}

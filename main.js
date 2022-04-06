@@ -8,3 +8,4 @@ function changered(){
 	document.getElementById("hello").style.backgroundColor = "red";
 }
 document.getElementById("button").addEventListener("click",changered);
+
