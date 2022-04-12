@@ -1,3 +1,4 @@
+
 function checkq1(){
 	if(document.getElementById("q1").value=="7028")
 	{
