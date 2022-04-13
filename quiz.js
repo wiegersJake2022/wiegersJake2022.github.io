@@ -24,4 +24,6 @@ function calculate() {
 		result = result + 1;
 	}
 }
-document.getElementById("").addEventListener("click",);
+document.getElementById("submit").addEventListener("click",submit);
+document.getElementById("score").addEventListner("click",calculate);
+document.getElementById("score").addEventListner("click",score);
