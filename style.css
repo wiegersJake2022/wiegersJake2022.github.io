@@ -16,3 +16,13 @@
 	margin: 15px;
 }
 
+#buttons, #image {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.button {
+	display: block;
+	vertical-align: top;
+}
+
