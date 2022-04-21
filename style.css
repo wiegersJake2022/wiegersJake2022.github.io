@@ -25,4 +25,9 @@
 	display: block;
 	vertical-align: top;
 }
-
+.bar1{
+	display: inline-block;
+	background-color: #001489;
+	color: white;
+	padding: 20px;
+}
