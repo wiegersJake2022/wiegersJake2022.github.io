@@ -16,5 +16,10 @@
 	margin-left: 25px;
 	margin-top: 25px;
 	vertical-align: top;
+	text-align: center;
+}
+#image{
+	display: inline-block;
+	
 	
 }
