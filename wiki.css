@@ -9,6 +9,26 @@
 	padding-left: 120px;
 	vertical-align: top;
 	border-bottom: solid;
-	
-	
+	border-bottom-color: lightgray;
+}
+#geo{
+	border-bottom: solid;
+	border-bottom-color: lightgrey;	
+}
+
+#infrast{
+	border-bottom: solid;
+	border-bottom-color: lightgrey;
+}
+#histor{
+	border-bottom: solid;
+	border-bottom-color: lightgray;
+}
+#educat{
+	border-bottom: solid;
+	border-bottom-color: lightgray;
+}
+#Demograph{
+	border-bottom: solid;
+	border-bottom-color: lightgray;
 }
