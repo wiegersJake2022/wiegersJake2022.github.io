@@ -27,11 +27,23 @@
 }
 .bar1{
 	display: inline-block;
-	background-color: #001489;
-	color: white;
+	background-color: cornflowerblue;
+	color: orange;
 	padding: 20px;
 }
 #div1{
-	
+	display: block;
 }
-
+.home{
+	background-color: orange;
+}
+.football{
+	height: 200px;
+	vertical-align: left;
+}
+.announcements{
+	height: 250px;
+	vertical-align: left;
+	color: black;
+	background-color: aquamarine;
+}
