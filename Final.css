@@ -1,0 +1,38 @@
+#greek{
+color: white;
+background-color: skyblue;
+	padding-left: 500px;
+}
+#infopg1{
+	color: coral;
+	background-color: black;
+	padding-left: 500px;	
+}
+#infofacts{
+	color:honeydew;
+	background-color:darkslategrey;
+	display: inline-block;
+	border-color: cornsilk;
+}
+#headinfo1{
+	border-bottom: solid;
+	border-bottom-color: gold;
+	color:firebrick
+}
+.cityAkropolis{
+	display: block;
+	height: 259px;
+	width: auto;
+	display: inline-block;
+}
+#head2facts{
+	border-bottom: solid;
+	border-bottom-color: gold;
+	color: firebrick;
+}
+#Bonusinfo{
+	color: honeydew;
+	background-color: darkslategray;
+	border-color: cornsilk;
+}
+
