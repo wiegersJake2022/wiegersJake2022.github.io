@@ -35,4 +35,43 @@ background-color: skyblue;
 	background-color: darkslategray;
 	border-color: cornsilk;
 }
-
+#infopg2{
+	color: coral;
+	background-color: black;
+	padding-left: 500px;
+}
+#headinfo2{
+	border-bottom: solid;
+	border-bottom-color: gold;
+	color: firebrick;
+}
+#infofacts2{
+	color: honeydew;
+	background-color: darkslategrey;
+	border: solid;
+	border-color: cornflowerblue;
+}
+.sparta{
+	display:inline-block;
+	height: 259px;
+}
+.peloponnesian{
+	display: inline-block;
+	height: 420px
+}
+#infopg3{
+	color: coral;
+	background-color: black;
+	padding-left: 500px;
+}
+#headinfo3{
+	border-bottom: solid;
+	border-bottom-color: gold;
+	color: firebrick;
+}
+#info3facts{
+	color: honeydew;
+	background-color: darkslategrey;
+	border: solid;
+	border-color: honeydew;
+}
